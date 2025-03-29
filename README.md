@@ -2,6 +2,9 @@
 
 Check `config/laragent.php` for providers configurations. You will need ollama for local development or OpenAi api key to set in .env file.
 
+- Video [Build an AI Agent in Laravel Using Local LLMs (No Token Costs!)](https://www.youtube.com/watch?v=A44IKGPrf-k)
+- Article [Laravel AI Tutorial: Create Local Agents with Ollama](https://laragent.substack.com/p/create-local-agent-with-laravel-and-ollama)
+
 ## AppointmentAssistant
 
 Located in `app/AiAgents/AppointmentAssistant.php`.
